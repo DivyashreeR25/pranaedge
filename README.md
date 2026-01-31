@@ -97,4 +97,4 @@ PranaEdge follows a modular architecture that separates frontend interaction, ba
 1. Clone the repository:
    ```bash
    git clone https://github.com/DivyashreeR25/pranaedge.git
->>>>>>> 133db072e1d46cf600f7a4cd9650bf76b8eb4209
+
