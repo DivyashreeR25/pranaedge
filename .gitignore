@@ -1,0 +1,4 @@
+.env
+sub-nodes/food_analyzer/new/
+__pycache__/
+dnv/

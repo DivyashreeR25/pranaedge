@@ -1,0 +1,23 @@
+# Core
+Flask==3.0.3
+Flask-Cors==4.0.0
+
+# Machine Learning / Deep Learning
+tensorflow==2.15.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+
+# Image Processing
+opencv-python==4.10.0.84
+Pillow==10.4.0
+easyocr==1.7.1
+
+# Utility
+matplotlib==3.9.2
+protobuf==4.25.3
+Werkzeug==3.0.4
+
+# Optional for speech or feedback (if needed later)
+gTTS==2.5.3
+playsound==1.3.0
