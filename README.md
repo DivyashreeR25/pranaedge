@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# pranaedge
-PranaEdge is an AI-powered wellness ecosystem designed to bridge the gap between traditional practices and modern technology. The platform features real-time yoga pose correction using computer vision and personalized AI-driven meditation sessions, providing users with a comprehensive, data-backed approach to physical and mental health.
-=======
+
 # PranaEdge
 
 PranaEdge is an AI-powered wellness platform designed to support physical and mental well-being through real-time yoga pose correction, personalized meditation, nutrition analysis, sleep tracking, community interaction, and intelligent chatbot assistance. The system integrates artificial intelligence, computer vision, and modern web technologies to provide an accessible and personalized wellness experience.
